@@ -1,0 +1,6 @@
+sentence-transformers
+elasticsearch
+streamlit
+langchain
+transformers
+pymupdf
