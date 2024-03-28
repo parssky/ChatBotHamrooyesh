@@ -15,3 +15,4 @@ Setup:
   (*)spacenavard1@gmail.com
 enjoy ;)
 
+Course Link : https://hamruyesh.com/product/dive-into-the-world-of-langchain-build-chatbot-pdf/?redirect_to=https%3A%2F%2Fhamruyesh.com%2Fproduct%2Fdive-into-the-world-of-langchain-build-chatbot-pdf%2F
