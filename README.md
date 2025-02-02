@@ -8,7 +8,7 @@ Use updated_chatbot.py instead of chatbot.py
 Setup:
 1)create 2 folders named transformers and google in "path/ChatBot/"
 2)Downloads files with code or mannualy from HuggingFace
-3)install packages in r.txt
+3)install packages in requirements.txt
 4)run with streamlit -> streamlit run chatbot.py
 ```
 
